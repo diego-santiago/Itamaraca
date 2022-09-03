@@ -48,4 +48,4 @@ class Itamaraca {
     }
 }
 
-exports.Itamaraca = Itamaraca;
+module.exports = Itamaraca;
