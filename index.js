@@ -1,6 +1,6 @@
 class Itamaraca {
 
-    constructor({ N = 10000, s0 = 8777, s1 = 11, s2 = 8, xrn = 1.97}) {
+    constructor({ N, s0, s1, s2, xrn }) {
         
         this.N = N;
 
@@ -48,7 +48,4 @@ class Itamaraca {
     }
 }
 
-// For Proof of Concept
-// https://www.slideshare.net/DHPereira1/itamarac-uma-nova-maneira-simples-de-gerar-nmeros-pseudoaleatrios
-
-const ita = new Itamaraca({ N: 10000, s0: 8777, s1: 11, s2: 8, xrn: 1.97 });
+exports.Itamaraca = Itamaraca;
