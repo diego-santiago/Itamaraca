@@ -1,0 +1,16 @@
+{
+  "name": "itamaraca",
+  "version": "1.0.0",
+  "description": "Implementation of Pseudo-Random Number Generator Itamaracá. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Itamaracá",
+    "ita",
+    "PRNG"
+  ],
+  "author": "Diego Santiago",
+  "license": "ISC"
+}
