@@ -28,7 +28,7 @@ npm install itamaraca
 
 ### Basic Usage
 ```
-var Itamaraca = require('Itamaraca')
+var Itamaraca = require('itamaraca')
 
 // Setup
 const ita = new Itamaraca({
