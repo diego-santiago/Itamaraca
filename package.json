@@ -1,6 +1,6 @@
 {
   "name": "itamaraca",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Implementation of Pseudo-Random Number Generator Itamaracá. ",
   "main": "index.js",
   "scripts": {
